@@ -146,7 +146,7 @@ graph TD
 <div align="center">
 
 <!-- GANTI nama file sesuai gambar kamu -->
-<img src="screenshots/error.png" alt="Peringatan Input Tidak Valid" width="400"/>
+<img src="screenshots/eror.png" alt="Peringatan Input Tidak Valid" width="400"/>
 
 *Gambar 2. Dialog peringatan "Masukkan angka yang valid!" saat input bukan angka*
 
